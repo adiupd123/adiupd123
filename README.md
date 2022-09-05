@@ -1,6 +1,5 @@
 
-# Hi, I'm Aditya Upadhyay! ![Wave](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
-
+<h1 align="center"> Hi, I'm Aditya Upadhyay! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="45" height="45"/> </h1>
 
 ## 🚀 About Me
 I'm currently a...
