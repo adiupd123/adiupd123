@@ -48,3 +48,9 @@ ___
 
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 <!--START_SECTION:activity-->
+1.
+1.
+1.
+1.
+1.
+<!--END_SECTION:activity-->
