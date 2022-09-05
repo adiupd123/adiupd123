@@ -6,7 +6,10 @@ I'm currently a...
 * **Student**
 * **Android App Developer**
 
+<p><img src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e473mn7mc60swbnrk79r7be6wyi8rnprn589uibk0ke&rid=giphy.gif&ct=g" align="right" alt="coding" width="300"/></p>
+
 ## 🙋 Know More
+
 👩‍💻 I'm currently working on **"FingerTrip" - A Social Media App**
 
 🧠 I'm currently learning **Android App Development and DSA**
