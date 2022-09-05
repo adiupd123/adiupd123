@@ -7,7 +7,7 @@ I'm currently a...
 * Student
 * Android App Developer
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiupd123)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiupd123)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 ## 🛠 Skills
 C C++ JAVA PYTHON ANDROID SQL 
 ## 🔗 Links
