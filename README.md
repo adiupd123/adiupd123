@@ -39,4 +39,12 @@ ___
 
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
+2. ❗️ Opened issue [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
+3. 🎉 Merged PR [#3](https://github.com/adiupd123/demo-repo2/pull/3) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+4. 💪 Opened PR [#3](https://github.com/adiupd123/demo-repo2/pull/3) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+5. 🎉 Merged PR [#2](https://github.com/adiupd123/demo-repo2/pull/2) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+6. 💪 Opened PR [#2](https://github.com/adiupd123/demo-repo2/pull/2) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+7. 🎉 Merged PR [#1](https://github.com/adiupd123/demo-repo2/pull/1) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+8. 💪 Opened PR [#1](https://github.com/adiupd123/demo-repo2/pull/1) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 <!--END_SECTION:activity-->
