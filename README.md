@@ -41,9 +41,9 @@ I'm currently a...
 
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
-2. ❗️ Opened issue [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
-3. 🎉 Merged PR [#3](https://github.com/adiupd123/demo-repo2/pull/3) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+1. 💪 Opened PR [#14](https://github.com/rohit8020/css-loaders/pull/14) in [rohit8020/css-loaders](https://github.com/rohit8020/css-loaders)
+2. 🗣 Commented on [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
+3. ❗️ Opened issue [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
 4. 💪 Opened PR [#3](https://github.com/adiupd123/demo-repo2/pull/3) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 5. 🎉 Merged PR [#2](https://github.com/adiupd123/demo-repo2/pull/2) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 6. 💪 Opened PR [#2](https://github.com/adiupd123/demo-repo2/pull/2) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
