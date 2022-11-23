@@ -27,7 +27,8 @@ I'm currently a...
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adiupd123&show_icons=true&theme=radical&hide=stars" width="400"/>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiupd123&theme=radical&layout=compact) -->
+<!-- [Top Langs]() -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiupd123&theme=radical&layout=compact" width="400"/> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiupd123&" alt="adiupd123" width="400"/></p>
 
 ## 🛠 Languages and Tools
