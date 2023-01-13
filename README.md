@@ -27,7 +27,7 @@ I'm currently a...
 <br/>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=adiupd123&show_icons=true&theme=radical&hide=stars" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiupd123&show_icons=true&locale=en&layout=compact" width="337" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiupd123&" width="400"/>
 </p>
 
@@ -44,7 +44,7 @@ I'm currently a...
 </p>
 
 ## 🔗 Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya-portfolio-31e4.onrender.com/)
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya-portfolio-31e4.onrender.com/) -->
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-upadhyay1/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityaupd123)
 <img alt="Profile Visits" align="right" src="https://komarev.com/ghpvc/?username=adiupd123&style=flat-square&label=VISITORS+👀"/>
