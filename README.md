@@ -51,10 +51,10 @@ I'm currently a...
 
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/adiupd123/FingerTrip/pull/1) in [adiupd123/FingerTrip](https://github.com/adiupd123/FingerTrip)
-2. 💪 Opened PR [#1](https://github.com/adiupd123/FingerTrip/pull/1) in [adiupd123/FingerTrip](https://github.com/adiupd123/FingerTrip)
-3. ❗️ Closed issue [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
-4. 💪 Opened PR [#3](https://github.com/adiupd123/demo-repo2/pull/3) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
+1. ❗️ Opened issue [#6625](https://github.com/EddieHubCommunity/support/issues/6625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#1](https://github.com/adiupd123/FingerTrip/pull/1) in [adiupd123/FingerTrip](https://github.com/adiupd123/FingerTrip)
+3. 💪 Opened PR [#1](https://github.com/adiupd123/FingerTrip/pull/1) in [adiupd123/FingerTrip](https://github.com/adiupd123/FingerTrip)
+4. ❗️ Closed issue [#337](https://github.com/scaleracademy/scaler-september-open-source-challenge/issues/337) in [scaleracademy/scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge)
 5. 🎉 Merged PR [#2](https://github.com/adiupd123/demo-repo2/pull/2) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 6. 💪 Opened PR [#2](https://github.com/adiupd123/demo-repo2/pull/2) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 7. 🎉 Merged PR [#1](https://github.com/adiupd123/demo-repo2/pull/1) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
