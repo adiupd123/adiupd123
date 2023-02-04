@@ -44,12 +44,6 @@ I'm currently a...
 <!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
 </p>
 
-## 🔗 Connect with me
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aditya-portfolio-31e4.onrender.com/) -->
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-upadhyay1/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityaupd123)
-<img alt="Profile Visits" align="right" src="https://komarev.com/ghpvc/?username=adiupd123&style=flat-square&label=VISITORS+👀"/>
-
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#6625](https://github.com/EddieHubCommunity/support/issues/6625) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
@@ -62,4 +56,4 @@ I'm currently a...
 8. 💪 Opened PR [#1](https://github.com/adiupd123/demo-repo2/pull/1) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 <!--END_SECTION:activity-->
 
-## 👌 G' Day
+## 👌 G' Day <img alt="Profile Visits" align="right" src="https://komarev.com/ghpvc/?username=adiupd123&style=flat-square&label=VISITORS+👀"/>
