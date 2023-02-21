@@ -10,9 +10,7 @@ I'm currently a...
 
 ## 🙋 Know More
 
-👩‍💻 I'm currently working on **"FingerTrip" - A Social Media App**
-
-🧠 I'm currently learning **Android App Development and DSA**
+👩‍💻 I'm currently learning everything on **Android App Development and DSA**
 
 👯‍♀️ I'm looking to collaborate on **Open Source**
 
