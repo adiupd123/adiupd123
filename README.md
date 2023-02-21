@@ -2,17 +2,17 @@
 <h1 align="center"> Hi, I'm Aditya Upadhyay! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="45" height="45"/> </h1>
 
 ## 🚀 About Me
-I'm currently a...
-* **Student**
+I'm a...
+* **Computer Science and Engineering Student**
 * **Android App Developer**
 
 <p><img src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e473mn7mc60swbnrk79r7be6wyi8rnprn589uibk0ke&rid=giphy.gif&ct=g" align="right" alt="coding" width="300"/></p>
 
 ## 🙋 Know More
 
-👩‍💻 I'm currently learning everything on **Android App Development and DSA**
+👩‍💻 I'm currently working on **Android App Development** and **Problem solving skill**
 
-👯‍♀️ I'm looking to collaborate on **Open Source**
+👯‍♀️ I'm looking to collaborate for **Hackathons** and **Open Source**
 
 🤔 I'm looking for help with **Open Source**
 
@@ -20,11 +20,11 @@ I'm currently a...
 
 😄 Pronouns **He/Him**
 
-⚡️ Fun fact **I love Fitness**
+⚡️ Fun fact **I love Sports and Fitness**
 
 <br/>
 
-<p>
+<p align="justified">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiupd123&show_icons=true&locale=en&layout=compact" width="337" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiupd123&" width="400"/>
 </p>
