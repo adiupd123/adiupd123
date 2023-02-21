@@ -16,7 +16,7 @@ I'm a...
 
 🤔 I'm looking for help with **Open Source**
 
-📫 You can reach me via **Email: adiupd123@gmail.com and below mentioned Social Media Handles** 
+📫 You can reach me via my **email: adiupd123@gmail.com and social media handles on the left** 
 
 😄 Pronouns **He/Him**
 
