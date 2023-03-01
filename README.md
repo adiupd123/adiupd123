@@ -25,8 +25,8 @@ I'm a...
 <br/>
 
 <p align="justified">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiupd123&show_icons=true&locale=en&layout=compact" width="337" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiupd123&" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiupd123&show_icons=true&locale=en&layout=compact" width="325" height="200" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiupd123&" width="450"  height="200" />
 </p>
 
 ## 🛠 Languages and Tools
