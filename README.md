@@ -29,6 +29,11 @@ I'm a...
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiupd123&" width="450"  height="200" />
 </p>
 
+## Tech I Use
+💻 ASUS Vivobook K15 OLED Ryzen 7 16 GB
+🖱️ Zook Blade Wireless Gaming Mouse
+📱 Realme 8i 4GB/64 GB
+
 ## 🛠 Languages and Tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
