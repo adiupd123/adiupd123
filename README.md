@@ -10,7 +10,7 @@ I'm a...
 
 ## 🙋 Know More
 
-👩‍💻 I'm currently working on **Android App Development** and **Problem solving skill**
+👩‍💻 I'm currently working on **Android App Development** and **Problem-solving skill**
 
 👯‍♀️ I'm looking to collaborate for **Hackathons** and **Open Source**
 
