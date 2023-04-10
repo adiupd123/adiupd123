@@ -1,11 +1,7 @@
 
 <h1 align="center"> Hi, I'm Aditya Upadhyay! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="45" height="45"/> </h1>
 
-## 🚀 About Me
-I'm a...
-* **Computer Science and Engineering Student**
-* **Android App Developer**
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=79C257&width=1000&lines=I'm+a+Computer+Science+and+Engineering+Student;I'm+an+Android+App+Developer)](https://git.io/typing-svg)
 <p><img src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e473mn7mc60swbnrk79r7be6wyi8rnprn589uibk0ke&rid=giphy.gif&ct=g" align="right" alt="coding" width="300"/></p>
 
 ## 🙋 Know More
