@@ -10,8 +10,6 @@
 
 👯‍♀️ I'm looking to collaborate for **Hackathons** and **Open Source**
 
-🤔 I'm looking for help with **Open Source**
-
 📫 You can reach me via my **email: adiupd123@gmail.com and social media handles on the left** 
 
 😄 Pronouns **He/Him**
