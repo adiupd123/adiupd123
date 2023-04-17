@@ -50,4 +50,4 @@
 8. 💪 Opened PR [#1](https://github.com/adiupd123/demo-repo2/pull/1) in [adiupd123/demo-repo2](https://github.com/adiupd123/demo-repo2)
 <!--END_SECTION:activity-->
 
-## ☘️ G' Day <img alt="Profile Visits" align="right" src="https://komarev.com/ghpvc/?username=adiupd123&style=flat-square&label=VISITORS+👀"/>
+## 💠 G' Day <img alt="Profile Visits" align="right" src="https://komarev.com/ghpvc/?username=adiupd123&style=flat-square&label=VISITORS+👀"/>
