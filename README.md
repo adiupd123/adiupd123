@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/78906777/233865079-b6167ec7-fbf0-4905-93c2-d382e6cb0373.png" align="center" height="350" />
+<img src="https://user-images.githubusercontent.com/78906777/233865079-b6167ec7-fbf0-4905-93c2-d382e6cb0373.png" align="center" height="325" />
 
 <h1 align="center"> Hi, I'm Aditya Upadhyay! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="45" height="45"/> </h1>
 
