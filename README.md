@@ -1,10 +1,9 @@
-<img src="https://user-images.githubusercontent.com/78906777/233865079-b6167ec7-fbf0-4905-93c2-d382e6cb0373.png" align="center" height="325" />
-
 <h1 align="center"> Hi, I'm Aditya Upadhyay! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" width="45" height="45"/> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=79C257&width=1000&lines=I'm+a+Computer+Science+and+Engineering+Student;I'm+an+Android+App+Developer)](https://git.io/typing-svg)
-<!-- <p><img src="https://media3.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e473mn7mc60swbnrk79r7be6wyi8rnprn589uibk0ke&rid=giphy.gif&ct=g" align="right" alt="coding" width="300"/></p>
- -->
+
+<img src="https://user-images.githubusercontent.com/78906777/233865676-ff064ba0-9e75-4d46-89b6-a57070911f20.svg" align="center" />
+
 ## 🙋 Know More
 
 👩‍💻 I'm currently working on **Android App Development** and **Problem-solving skill**
