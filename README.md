@@ -35,7 +35,7 @@
 
 ## 🛠 Languages and Tools
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,react,git,bash,androidstudio,firebase,sqlite,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,react,git,bash,androidstudio,firebase,sqlite,linux,spring&theme=dark" />
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
